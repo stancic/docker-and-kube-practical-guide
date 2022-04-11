@@ -1,4 +1,4 @@
-# Docker & Kubernetes: The Practical Guide [2022 Edition]
+# Docker & Kubernetes: The Practical Guide [2022 Edition] By Maximilian Schwarzmüller / Academind GmbH
 
 Here I'll push every task that I do in each of the sections.
 
@@ -30,3 +30,5 @@ To stop currently running container, run `docker ps` in the new terminal window 
 ```
 docker stop <container_id>
 ```
+
+## Section 2
